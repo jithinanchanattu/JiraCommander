@@ -1,0 +1,26 @@
+<remapper>  
+  <database_objects>  
+    <proc_name>PROC_AX001</proc_name>  
+	<p_parameter1>P_FLIGHT_TIMES</p_parameter1>
+	<p_parameter2>P_FLIGHT_HOURS</p_parameter2>
+	<p_parameter3>P_FLIGHT_CYCLES</p_parameter3>
+	<p_parameter4>P_OUT_TOTAL_FLIGHT</p_parameter4>
+	<p_parameter5>P_OUT_CURRENCY</p_parameter5>
+	<META_COLUMN1>LOG_DATA_FIELD</META_COLUMN1>
+	<META_COLUMN2>LOG_DATA_VALUE</META_COLUMN2>
+	<META_COLUMN3>LOG_DATE</META_COLUMN3>	
+  </database_objects>
+  <net>  
+    <FirstControl>AC001</FirstControl>  
+    <PageControl>MasterPage</PageControl>  
+    <button1_Click>btnSearchOperation</button1_Click>  
+	<xmlPath>AC001XmlPath</xmlPath>
+	<inputPath>AC001InputPath</inputPath>
+	<outputPath>AC001OutputPath</outputPath>
+    <ReadPAGEXmlData>ReadAC001XmlData</ReadPAGEXmlData>  
+  </net>
+  <ASPX>
+	<META_FORM_TITLE>AC001 - Generic Flight Data</META_FORM_TITLE>
+	<META_FORM_NAME>Flight Data Calculator</META_FORM_NAME>
+  </ASPX>
+</remapper>

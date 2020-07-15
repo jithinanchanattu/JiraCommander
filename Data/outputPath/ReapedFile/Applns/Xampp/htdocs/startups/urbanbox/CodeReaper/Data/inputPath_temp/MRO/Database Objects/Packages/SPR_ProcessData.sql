@@ -1,0 +1,28 @@
+CREATE OR REPLACE PROCEDURE PROC_AX001 (
+P_FLIGHT_TIMES IN INTEGER,
+P_FLIGHT_HOURS IN INTEGER,
+P_FLIGHT_CYCLES IN INTEGER,
+P_OUT_TOTAL_FLIGHT OUT INTEGER,
+P_OUT_CURRENCY OUT VARCHAR2
+)
+IS
+BEGIN
+dbms_output.put_line ('Hurrah! Your first mapped file for procedure '|| PROC_AX001||' was created successfully.');
+P_OUT_TOTAL_FLIGHT := (P_FLIGHT_TIMES+P_FLIGHT_HOURS);
+P_OUT_TOTAL_FLIGHT := P_OUT_TOTAL_FLIGHT / P_FLIGHT_CYCLES;
+
+BEGIN
+SELECT TO_NUMBER('-AusDollars100','L9G999D99',
+' NLS_NUMERIC_CHARACTERS = '',.''
+ NLS_CURRENCY            = ''AusDollars'' 
+') "Amount" INTO P_OUT_CURRENCY
+ FROM DUAL;
+EXCEPTION 
+WHEN OTHERS THEN
+NULL;
+END;
+
+dbms_output.put_line ('Integer Output Value is: '|| P_OUT_TOTAL_FLIGHT);
+dbms_output.put_line ('Processed Parameter Character Value is: '|| P_OUT_CURRENCY);
+END;
+/

@@ -11,22 +11,6 @@ D:\Applns\Xampp\htdocs\startups\urbanbox\CodeReaper\bin\Debug\Ionic.Zip.dll
 D:\Applns\Xampp\htdocs\startups\urbanbox\CodeReaper\obj\Debug\CodeReaper.csproj.CopyComplete
 D:\Applns\Xampp\htdocs\startups\urbanbox\CodeReaper\obj\Debug\CodeReaper.exe
 D:\Applns\Xampp\htdocs\startups\urbanbox\CodeReaper\obj\Debug\CodeReaper.pdb
-G:\Works\JiraCommander\JiraCommander\bin\Debug\CodeReaper.exe.config
-G:\Works\JiraCommander\JiraCommander\bin\Debug\CodeReaper.exe
-G:\Works\JiraCommander\JiraCommander\bin\Debug\CodeReaper.pdb
-G:\Works\JiraCommander\JiraCommander\bin\Debug\Ionic.Zip.dll
-G:\Works\JiraCommander\JiraCommander\bin\Debug\Newtonsoft.Json.dll
-G:\Works\JiraCommander\JiraCommander\bin\Debug\Newtonsoft.Json.xml
-G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.CreatePlayground.resources
-G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.Home.resources
-G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.CreateMapper.resources
-G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.Properties.Resources.resources
-G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.csproj.GenerateResource.cache
-G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.csproj.CoreCompileInputs.cache
-G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.csproj.CopyComplete
-G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.exe
-G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.pdb
-G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.csprojAssemblyReference.cache
 C:\Users\A-6256\Desktop\Idea Spark\JiraCommander\JiraCommander\bin\Debug\Ionic.Zip.dll
 C:\Users\A-6256\Desktop\Idea Spark\JiraCommander\JiraCommander\bin\Debug\Newtonsoft.Json.dll
 C:\Users\A-6256\Desktop\Idea Spark\JiraCommander\JiraCommander\bin\Debug\Newtonsoft.Json.xml
@@ -48,3 +32,20 @@ C:\Users\A-6256\Desktop\Idea Spark\JiraCommander\JiraCommander\obj\Debug\JiraCom
 G:\Works\JiraCommander\JiraCommanderv\JiraCommander\JiraCommander\obj\Debug\CodeReaper.csprojAssemblyReference.cache
 G:\Works\JiraCommander\JiraCommanderv\JiraCommander\JiraCommander\obj\Debug\JiraCommander.exe
 G:\Works\JiraCommander\JiraCommanderv\JiraCommander\JiraCommander\obj\Debug\JiraCommander.pdb
+G:\Works\JiraCommander\JiraCommander\bin\Debug\JiraCommander.exe.config
+G:\Works\JiraCommander\JiraCommander\bin\Debug\JiraCommander.exe
+G:\Works\JiraCommander\JiraCommander\bin\Debug\JiraCommander.pdb
+G:\Works\JiraCommander\JiraCommander\bin\Debug\Ionic.Zip.dll
+G:\Works\JiraCommander\JiraCommander\bin\Debug\Newtonsoft.Json.dll
+G:\Works\JiraCommander\JiraCommander\bin\Debug\System.Net.Http.Formatting.dll
+G:\Works\JiraCommander\JiraCommander\bin\Debug\Newtonsoft.Json.xml
+G:\Works\JiraCommander\JiraCommander\bin\Debug\System.Net.Http.Formatting.xml
+G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.CreatePlayground.resources
+G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.Home.resources
+G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.CreateMapper.resources
+G:\Works\JiraCommander\JiraCommander\obj\Debug\JiraCommander.Properties.Resources.resources
+G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.csproj.GenerateResource.cache
+G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.csproj.CoreCompileInputs.cache
+G:\Works\JiraCommander\JiraCommander\obj\Debug\CodeReaper.csproj.CopyComplete
+G:\Works\JiraCommander\JiraCommander\obj\Debug\JiraCommander.exe
+G:\Works\JiraCommander\JiraCommander\obj\Debug\JiraCommander.pdb

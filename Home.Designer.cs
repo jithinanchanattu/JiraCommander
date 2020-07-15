@@ -175,10 +175,10 @@
             // CodeReaperLogo
             // 
             this.CodeReaperLogo.Image = ((System.Drawing.Image)(resources.GetObject("CodeReaperLogo.Image")));
-            this.CodeReaperLogo.Location = new System.Drawing.Point(26, 4);
+            this.CodeReaperLogo.Location = new System.Drawing.Point(-4, -22);
             this.CodeReaperLogo.Margin = new System.Windows.Forms.Padding(4);
             this.CodeReaperLogo.Name = "CodeReaperLogo";
-            this.CodeReaperLogo.Size = new System.Drawing.Size(113, 102);
+            this.CodeReaperLogo.Size = new System.Drawing.Size(184, 201);
             this.CodeReaperLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.CodeReaperLogo.TabIndex = 4;
             this.CodeReaperLogo.TabStop = false;
